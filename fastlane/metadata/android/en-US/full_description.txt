@@ -1,0 +1,13 @@
+RSVP Fast Read is a high-performance reading tool designed for efficiency and privacy. Using the Rapid Serial Visual Presentation (RSVP) technique, it flashes text one word at a time, allowing you to read significantly faster by eliminating eye movement.
+
+Key Features:
+- Speed Control: Read from 100 to 1000 words per minute.
+- Optimal Recognition Point (ORP): Colored visual anchor point mathematically centered to keep your focus sharp.
+- Bionic Reading Mode: Bolded word prefixes to assist with ocular anchoring.
+- Advanced Views: Split-view for simultaneous RSVP and context scrolling, or Contextual Hybrid overlay.
+- Smart Navigation: Tap-to-resume from any word, chapter selection, and 10-word rewind/skip.
+- Document Support: Extract text from PDF, EPUB, HTML, and TXT files locally.
+- Productivity: Track your daily reading progress and set focus timers.
+- 100% Privacy: Strictly offline. No internet permissions, no trackers, and no data collection.
+
+Improve your reading speed and focus with a tool built for freedom and transparency.
